@@ -144,6 +144,16 @@ ul {
     border-bottom-color: rgba(255, 255, 255, 0.2);
 }
 
+.deploy-badge {
+    display: inline-block;
+    margin-top: 14px;
+    padding: 6px 14px;
+    border: 1px solid #334155;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    color: #e2e8f0;
+}
+
 .copyright {
     margin-top: 10px;
     font-size: 0.85rem;
