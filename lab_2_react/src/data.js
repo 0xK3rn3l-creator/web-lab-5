@@ -1,5 +1,3 @@
-// Усі дані резюме в одному місці.
-// Компоненти отримують ці дані через props — так дані відокремлені від розмітки.
 export const cv = {
   name: "Максим Кузюк",
   role: "Cybersecurity Student | Trainee Security Researcher",
